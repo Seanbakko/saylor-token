@@ -1,0 +1,17 @@
+{
+    "name": "Michael J. Saylor",
+    "symbol": "SAYLOR",
+    "description": "A fun meme coin inspired by Michael J. Saylor on Solana.",
+    "seller_fee_basis_points": 0,
+    "image": "https://i.imgur.com/e9CEYgR.jpeg",
+    "attributes": [],
+    "external_url": "https://x.com/saylor",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.imgur.com/e9CEYgR.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
